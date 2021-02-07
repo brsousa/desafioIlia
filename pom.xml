@@ -13,6 +13,7 @@
 	<groupId>br.com.desafio.livelo.ilia</groupId>
 	<artifactId>desafioIlia</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>desafioIlia</name>
 	<description>Projeto de desafio da Livelo/Ilia</description>
 	
@@ -108,7 +109,6 @@
 		<dependency>
 			<groupId>org.apache.commons</groupId>
 			<artifactId>commons-lang3</artifactId>
-			<version>3.4</version>
 		</dependency>
 		
 	</dependencies>
